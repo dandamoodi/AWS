@@ -1,0 +1,3 @@
+aws --version
+aws configure
+aws ec2 describe-instances
